@@ -1,0 +1,15 @@
+int1=int(input("Enter the Number: "))
+if (int1>=0):
+    print("Number is positive")
+else:
+    print("Number is Negative")
+   
+int2=int(input("Enter the Number: "))
+x=int(int2/2)*2
+if(x==int2):
+    print ("Number is Odd...")
+else:
+    print ("Number is Even...")
+  
+  
+
